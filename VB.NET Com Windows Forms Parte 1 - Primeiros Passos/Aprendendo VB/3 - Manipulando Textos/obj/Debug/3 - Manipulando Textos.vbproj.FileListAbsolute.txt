@@ -1,0 +1,12 @@
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe.config
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbprojAssemblyReference.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Resources.resources
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.GenerateResource.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.CoreCompileInputs.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Frm_TelaPrincipal_03.resources

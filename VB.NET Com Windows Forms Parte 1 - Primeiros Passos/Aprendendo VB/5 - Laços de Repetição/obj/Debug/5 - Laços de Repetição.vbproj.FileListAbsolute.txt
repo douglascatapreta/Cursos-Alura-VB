@@ -1,0 +1,12 @@
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe.config
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbprojAssemblyReference.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Frm_TelaPrincipal_05.resources
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Resources.resources
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.GenerateResource.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.CoreCompileInputs.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb

@@ -1,0 +1,12 @@
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe.config
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbprojAssemblyReference.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Resources.resources
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.GenerateResource.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.CoreCompileInputs.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Frm_TelaPrincipal_02.resources

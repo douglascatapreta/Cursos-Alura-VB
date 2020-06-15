@@ -1,0 +1,12 @@
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe.config
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbprojAssemblyReference.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.GenerateResource.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.CoreCompileInputs.cache
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.xml
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
+D:\Users\dougl\Developer\Workspace_Alura\Cursos-Alura-VB\VB.NET Com Windows Forms Parte 1 - Primeiros Passos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Frm_TelaPrincipal_01.resources
