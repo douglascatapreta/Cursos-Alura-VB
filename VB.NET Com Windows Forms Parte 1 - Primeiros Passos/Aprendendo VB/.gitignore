@@ -1,0 +1,16 @@
+0 - Projeto Principal/bin
+0 - Projeto Principal/obj
+1 - Primeiro Projeto/bin
+1 - Primeiro Projeto/obj
+2 - Criando Variáveis/bin
+2 - Criando Variáveis/obj
+3 - Manipulando Textos/bin
+3 - Manipulando Textos/obj
+4 - Controle de Fluxo/bin
+4 - Controle de Fluxo/obj
+5 - Laços de Repetição/bin
+5 - Laços de Repetição/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
